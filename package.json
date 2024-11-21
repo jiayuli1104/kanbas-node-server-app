@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/XiaWei-NEU/kanbas-node-server-app.git"
+        "url": "git+https://github.com/jiayuli1104/kanbas-node-server-app.git"
     },
     "keywords": [
         "Node",
@@ -24,9 +24,9 @@
     "author": "Jiayu Li",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/XiaWei-NEU/kanbas-node-server-app/issues"
+        "url": "https://github.com/jiayuli1104/kanbas-node-server-app/issues"
     },
-    "homepage": "https://github.com/XiaWei-NEU/kanbas-node-server-app#readme",
+    "homepage": "https://github.com/jiayuli1104/kanbas-node-server-app#readme",
     "dependencies": {
         "cors": "^2.8.5",
         "dotenv": "^16.4.5",
